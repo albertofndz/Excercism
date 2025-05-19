@@ -10,8 +10,7 @@ Los ejercicios están organizados por lenguaje en subdirectorios. Cada lenguaje 
 ## 🧠 Lenguajes que estoy practicando
 
 - [x] Elixir
-- [x] Python
-- [ ] Springboot
+- [ ] Python
 *(La lista se actualizará a medida que avance)*
 
 ## 💡 Cómo funcionan los ejercicios
